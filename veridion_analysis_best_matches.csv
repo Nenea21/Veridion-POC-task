@@ -1,0 +1,593 @@
+input_row_key,veridion_id,candidate_name,name_similarity,geographic_match,business_context,overall_confidence,recommendation,match_reason
+0,26e22210-93e5-11eb-b997-8dd98d09cf25,New Millennium Network,52.75,100,70.0,75.1,ACCEPT,Moderate name similarity | Perfect geographic match | Strong business context match
+1,8b99ef83-93e4-11eb-b997-8dd98d09cf25,2operate,100.0,80,20.0,76.0,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+2,45309031-f8ab-11ed-89fe-613148a94f23,3 Step IT A/S.,100.0,60,45.0,73.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+3,08f48bc2-72c9-11ec-96d1-1d653dff9d1b,NIFU,14.6,100,45.0,54.84,REVIEW,Perfect geographic match | Moderate business context match
+4,e5cede70-0409-11ed-a83d-25d09483d16d,Proact IT Sweden,74.45,60,31.0,59.98,REVIEW,Strong name similarity | Country match | Moderate business context match
+5,df61d790-93e4-11eb-aa66-9b8d95e2171b,3Degrees Inc.,97.33,100,35.0,85.93,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+6,359bd116-93e5-11eb-b5f6-816dd10ac7b0,3Step IT Group,100.0,100,60.5,92.1,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+7,08330b7d-aeb0-11ef-ac6a-636c4f5076ef,AT RÖRSERVICE,53.67,60,0.0,45.47,REJECT,Moderate name similarity | Country match
+8,3bd57537-967f-11eb-a6b4-898f90f73868,Kearney,78.7,0,0.0,31.48,REJECT,Strong name similarity
+9,272b8711-93e5-11eb-8e19-198fb02d6f96,AALBORG CITY,100.0,100,45.0,89.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+10,182e8830-1b02-11ec-81d0-432e4ac5b2cc,Accenture Norge,76.87,60,35.0,61.75,REVIEW,Strong name similarity | Country match | Moderate business context match
+11,347c7e63-93e5-11eb-90d2-e3355a7e800b,Accutics,99.0,60,15.0,66.6,REVIEW,Strong name similarity | Country match | Some business context match
+12,fed105d4-93e4-11eb-9937-4fab995bf8ff,ACOME Company a Cooperative,82.05,100,0.0,72.82,ACCEPT,Strong name similarity | Perfect geographic match
+13,1000ca72-f7d7-11ed-bb8f-e9ec1594da2e,Acome Xintai Cables Co. Ltd.,100.0,60,15.0,67.0,REVIEW,Strong name similarity | Country match | Some business context match
+14,05a4c395-93e5-11eb-8e19-198fb02d6f96,Co adapt,82.0,100,10.0,74.8,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+15,0f6f7a53-93e5-11eb-8e19-198fb02d6f96,Adecco Fredericia,79.7,60,20.0,59.88,REVIEW,Strong name similarity | Country match | Some business context match
+16,8a652942-f9d1-11ed-9ca4-4b290c9d084b,Adecco Singapore Pte. Ltd.,89.0,60,35.0,66.6,REVIEW,Strong name similarity | Country match | Moderate business context match
+17,099ed3a8-1afb-11ec-a882-057f42292856,Adobe Systems Software Ireland,100.0,80,90.0,90.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+18,170bf945-d904-11ec-97fb-31cc4a312a12,Advanced Digital Broadcast Holdings SA.,100.0,60,40.0,72.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+19,333a3544-e6e7-11ed-9f71-972bd7ca4253,Advanced Security Network Sdn. Bhd.,93.6,100,70.0,91.44,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+20,a9f7869f-93e4-11eb-97db-273ba5953680,Advansia,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+21,2d7be421-93e5-11eb-be5a-4f810ab55f2e,Aeger Group,100.0,100,25.0,85.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+22,ef392bbd-93e4-11eb-919a-b3f9a5ad205c,Affirmed Networks,100.0,100,70.0,94.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+23,475daed5-0c7d-11ec-b9ed-b7cae580407c,AGG Power,74.77,100,75.0,84.91,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+24,25f047fc-93e5-11eb-a736-0f5b20ecb2f1,AIA PRS,71.65,100,15.0,71.66,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+25,379975dc-93e5-11eb-90d2-e3355a7e800b,AIG Norge,54.0,100,6.0,62.8,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+26,eab4a797-e56c-11ed-86c6-9fd2c95fb352,Aktieselskabet Rødovre Centrum,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+27,afe6b0d3-93e4-11eb-a33a-a3dfba582839,Shearman & Sterling,88.9,100,12.0,77.96,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+28,1a9cb61c-0d2d-11ec-8853-310171c0600e,Altair Aesthetic,50.28,100,0.0,60.11,REVIEW,Moderate name similarity | Perfect geographic match
+29,c89d4e1b-bfde-11ec-92f4-876998402e2b,Amazon Web Services | API Gateway,97.2,100,38.5,86.58,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+30,4706bd71-93e5-11eb-aa66-9b8d95e2171b,Amazon Web Services EMEA,100.0,0,25.0,45.0,REJECT,Strong name similarity | Some business context match
+31,32ed00ff-ab12-11ef-be34-ede950a69392,Amazon E Store,56.56,100,4.29,63.48,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+32,1dce5f35-93e5-11eb-86dd-ffbd1b53140e,Amdocs,72.57,0,90.0,47.03,REJECT,Strong name similarity | Strong business context match
+33,0078e966-93e5-11eb-b997-8dd98d09cf25,American Steakhouse,48.55,60,10.0,45.42,REJECT,Moderate name similarity | Country match | Some business context match
+34,d791fd63-e113-11ec-a72c-1538a9321a8e,American Express Company AS,79.75,100,18.0,75.5,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+35,e97d1f55-93e4-11eb-be3a-7f925cb94351,Analysys Mason,100.0,0,20.0,44.0,REJECT,Strong name similarity | Some business context match
+36,1dd418f5-e3d2-11ed-ac12-fbc94f3c13a4,R Mason Site Services Ltd.,74.6,60,65.0,66.84,REVIEW,Strong name similarity | Country match | Strong business context match
+37,d7aa707f-93e4-11eb-9937-4fab995bf8ff,Andco A/S.,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+38,cfc5f77c-ce95-11ed-953a-9d8f156b9731,ANNALECT,84.12,100,15.0,76.65,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+39,02115b2b-65f6-11ef-a567-7774974824cc,Anne Mette Høy,93.43,60,20.0,65.37,REVIEW,Strong name similarity | Country match | Some business context match
+40,be65c7e5-93e4-11eb-97db-273ba5953680,Anritsu,100.0,0,35.0,47.0,REJECT,Strong name similarity | Moderate business context match
+41,bf876480-93e4-11eb-8474-3bbe2d07207d,CANEA,29.6,100,6.0,53.04,REVIEW,Perfect geographic match | Some business context match
+42,94b23b7a-a0a5-11ed-9081-2b8f862bccfc,Aon Norway,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+43,f7b252d4-fa1c-11ec-83db-47cce081a4ab,AppDynamic,76.8,60,10.0,56.72,REVIEW,Strong name similarity | Country match | Some business context match
+44,72b33d10-1afd-11ec-9842-212d1c52ad77,Apple Distribution International,100.0,60,25.0,69.0,REVIEW,Strong name similarity | Country match | Some business context match
+45,72b33d10-1afd-11ec-9842-212d1c52ad77,Apple Distribution International,100.0,100,25.0,85.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+46,50c0e708-22bf-11ec-9024-ef7bc13965aa,Apple Malaysia Sdn Bhd.,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+47,001f3090-93e5-11eb-a33a-a3dfba582839,South East Asia Sails,64.47,60,0.0,49.79,REJECT,Moderate name similarity | Country match
+48,0233ab52-aa7c-11ec-bce7-45193b30c3a8,Mixto As,46.67,100,0.0,58.67,REVIEW,Moderate name similarity | Perfect geographic match
+49,34818680-89c1-11ec-a621-3f13cdb5ccc4,Arelion,100.0,60,0.0,64.0,REVIEW,Strong name similarity | Country match
+50,015a2194-93e5-11eb-aa66-9b8d95e2171b,Communications Network International,69.07,60,80.0,67.63,REVIEW,Moderate name similarity | Country match | Strong business context match
+51,c7288490-93e4-11eb-8859-29e7c34dee35,Ascio Technologies,72.71,60,40.0,61.09,REVIEW,Strong name similarity | Country match | Moderate business context match
+52,0174ef42-0600-11ec-b0e6-bd1b9cb60ae6,Norm Denmark,71.37,60,10.0,54.55,REVIEW,Strong name similarity | Country match | Some business context match
+53,431d0020-93e5-11eb-be5a-4f810ab55f2e,Atea Danmark,74.85,100,0.0,69.94,REVIEW,Strong name similarity | Perfect geographic match
+54,933da790-93e4-11eb-b5f6-816dd10ac7b0,Atea ASA.,100.0,100,15.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+55,f0c60d30-93e4-11eb-91fb-73d498260b10,Atea Sverige,100.0,80,10.0,74.0,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+56,030c8c8e-93e5-11eb-b997-8dd98d09cf25,Investment Fund for Developing Countries,63.37,60,60.0,61.35,REVIEW,Moderate name similarity | Country match | Strong business context match
+57,a32a0a45-93e4-11eb-90d2-e3355a7e800b,Atrebo,99.0,60,0.0,63.6,REVIEW,Strong name similarity | Country match
+58,b011b872-93e4-11eb-b4a6-27899be4e45d,AV CENTER,88.0,60,15.0,62.2,REVIEW,Strong name similarity | Country match | Some business context match
+59,65315fc3-0695-11ef-a74a-2d2c9a18d857,Aviat Electric Store,56.2,60,15.0,49.48,REJECT,Moderate name similarity | Country match | Some business context match
+60,b999a620-7299-11ec-bfac-2f753bdf82cf,Aviat Networks,95.7,0,75.0,53.28,REVIEW,Strong name similarity | Strong business context match
+61,85513392-93e4-11eb-90d2-e3355a7e800b,ISDF,29.2,100,13.0,54.28,REVIEW,Perfect geographic match | Some business context match
+62,79b2afc2-9ba7-11ec-81bb-a98020a63841,Axteq,94.05,100,0.0,77.62,ACCEPT,Strong name similarity | Perfect geographic match
+63,eea35cb5-1206-11ec-a59d-d5061f333c7e,AZ Technology,76.8,100,55.0,81.72,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+64,3ea0da62-8ab7-11ec-ac1c-2de22eb6a532,BAE Systems Applied Intelligence,99.03,100,90.0,97.61,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+65,9c00c37e-6d04-11ee-b24b-eb147ec3ebc2,Basico P/S.,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+66,d57e2265-193a-11f0-abd2-b1121b4598c4,Bb connect,100.0,0,0.0,40.0,REJECT,Strong name similarity
+67,fea03af9-1a57-11ef-9cbf-bfaaf27dfae6,BB Technology Co. Ltd. Ratchaburi,100.0,60,40.0,72.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+68,19b7bf64-6a16-11ec-b931-3729d84df188,BCD Engineering,36.08,100,30.0,60.43,REVIEW,Perfect geographic match | Moderate business context match
+69,05804ba6-93e5-11eb-8859-29e7c34dee35,BCD,91.85,100,0.0,76.74,ACCEPT,Strong name similarity | Perfect geographic match
+70,c62a45a0-6cf1-11ec-bd63-974170f7dbf6,Beat,95.15,100,10.0,80.06,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+71,d037a93e-18b9-11f0-94fa-471c68e22274,Beijing High-tech Dynamic Power Co. Ltd.,100.0,100,80.0,96.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+72,1cdc1a43-6dce-11ec-a314-7d00415f726f,BigID,94.05,60,0.0,61.62,REVIEW,Strong name similarity | Country match
+73,8bd572a1-01b3-11ef-a950-57d6400676e3,Binkies,82.47,100,7.5,74.49,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+74,0cb674d5-93e5-11eb-aa66-9b8d95e2171b,Blackwood Seven,100.0,100,23.0,84.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+75,1f377b2b-0c41-11ec-b09d-95ba7b1bb140,Blom Søefeldt - Erhvervspsykologisk Rådgivning,100.0,100,7.5,81.5,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+76,f6ae0b86-93e4-11eb-91fb-73d498260b10,Boost,85.77,100,23.0,78.91,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+77,e84cb5a0-93e4-11eb-8e19-198fb02d6f96,Bording Danmark,100.0,60,3.0,64.6,REVIEW,Strong name similarity | Country match | Some business context match
+78,e06dbd72-5b1d-11ef-8bf4-3129dd2a123f,BRAATHENS REGIONAL AIRWAYS AB.,100.0,60,0.0,64.0,REVIEW,Strong name similarity | Country match
+79,efc08410-93e4-11eb-a746-fdabd18be9c6,Brainchild Communications Pakistan,100.0,60,40.0,72.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+80,f6c033f6-93e4-11eb-8859-29e7c34dee35,Brobizz,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+81,91a6c984-27a7-11ef-ba21-2b94af863263,Bundgaard Køleteknik A/S.,95.9,100,6.0,79.56,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+82,2a0c38dd-93e5-11eb-8474-3bbe2d07207d,Bynder,80.27,100,0.0,72.11,ACCEPT,Strong name similarity | Perfect geographic match
+83,2d5be122-0a6a-11ec-b841-af64738d2bcd,CW Aero Services,74.5,100,33.0,76.4,ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+84,73d641b5-93e4-11eb-91fb-73d498260b10,Campana Group,96.8,60,25.0,67.72,REVIEW,Strong name similarity | Country match | Some business context match
+85,9dc12706-93e4-11eb-8e19-198fb02d6f96,CBRE Norway,73.55,100,15.0,72.42,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+86,57918a20-a8bb-11ed-9a6b-af642bb25f66,CBRE Teknisk servicepartner,100.0,100,33.0,86.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+87,f0e66671-93e4-11eb-b4a6-27899be4e45d,Cellusys,91.85,80,35.0,75.74,ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+88,ecde24a0-93e4-11eb-a33a-a3dfba582839,Fisketorvet,69.35,60,46.25,60.99,REVIEW,Moderate name similarity | Country match | Moderate business context match
+89,ffcc1654-120e-11ec-8f83-091abf327b82,CETIN Hungary,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+90,26c39d80-93e5-11eb-be5a-4f810ab55f2e,China Telecom Global,100.0,100,88.0,97.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+91,c12f14b6-b6bc-11ef-b7fc-31383e76ec39,China Unicom Singapore Operations Limited,100.0,100,35.0,87.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+92,4db78ad2-c000-11ec-8d01-9b40ae94c55f,Chubb Global Risk Advisors,100.0,60,45.0,73.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+93,9cef310b-93e4-11eb-b997-8dd98d09cf25,Cibicom A/S.,94.28,100,22.5,82.21,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+94,9cc86f27-93e4-11eb-8e19-198fb02d6f96,Ciena,85.8,100,50.0,84.32,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+95,17bb1884-8aaf-11ec-97ac-2bfe3222420d,Cisco Systems London,57.27,60,65.0,59.91,REVIEW,Moderate name similarity | Country match | Strong business context match
+96,9efd3f68-c418-11ef-92e8-6df27b7ad8f3,Cisco Systems Norway AS,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+97,14fe8332-93e5-11eb-8ad6-7326edce8d21,Citero,99.0,100,40.0,87.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+98,f1fc1429-9cac-11ec-8b52-3572fc08d76f,Cloudera Foundation,84.05,100,15.0,76.62,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+99,00af1484-93e5-11eb-aa66-9b8d95e2171b,V-Smart Technologies Sdn Bhd.,99.2,60,60.0,75.68,ACCEPT,Strong name similarity | Country match | Strong business context match
+100,85816b51-93e4-11eb-a736-0f5b20ecb2f1,Comba Telecom,100.0,60,78.0,79.6,ACCEPT,Strong name similarity | Country match | Strong business context match
+101,eb823b24-1e9c-11ee-918e-3b99085851a3,COMENGINEERING SDN BHD.,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+102,03be7761-93e5-11eb-a746-fdabd18be9c6,All Property Solutions Singapore,78.75,100,25.0,76.5,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+103,ff338e8e-b929-11ed-89f1-bd62b3e1c745,Commscope Technologies Ag,100.0,60,40.0,72.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+104,0094d3b3-1b06-11ec-8d54-8181ab1eaaa9,CommScope,79.72,60,0.0,55.89,REVIEW,Strong name similarity | Country match
+105,8913e0f5-93e4-11eb-91fb-73d498260b10,Comviva Technologies,100.0,100,60.0,92.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+106,33c93c45-a7e0-11ef-af89-216a077ca7fb,Conscia Danmark A/S.,100.0,60,20.0,68.0,REVIEW,Strong name similarity | Country match | Some business context match
+107,be890a78-9d75-11ed-816c-8fdd7f384ea6,Control Risks Group Holdings Ltd.,96.5,100,65.0,91.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+108,e48e4e11-93e4-11eb-919a-b3f9a5ad205c,Corporate Communications,100.0,100,43.0,88.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+109,f62860c0-93e4-11eb-8e19-198fb02d6f96,Coupa,75.32,100,45.0,79.13,ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+110,d6c603ec-93e4-11eb-b997-8dd98d09cf25,Coursera Inc.,100.0,100,15.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+111,b9ebf60e-f3c1-11ed-afbd-cd002aee0352,Crayon A/S.,100.0,60,20.0,68.0,REVIEW,Strong name similarity | Country match | Some business context match
+112,a8683402-93e4-11eb-919a-b3f9a5ad205c,CRAYON,99.0,100,15.0,82.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+113,11ca0c36-93e5-11eb-b997-8dd98d09cf25,Crayon Digital Pte Ltd.,100.0,60,15.0,67.0,REVIEW,Strong name similarity | Country match | Some business context match
+114,7bdcda32-93e4-11eb-a736-0f5b20ecb2f1,CrowdStrike,86.32,100,10.0,76.53,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+115,c7c58151-43ae-11ef-b5d2-e5c02fb4c089,Searcher,99.0,80,0.0,71.6,ACCEPT,Strong name similarity | Perfect geographic match
+116,e8e82741-5871-11ec-b633-39790144a985,Cushman & Wakefield Services Thailand Co. Ltd.,100.0,60,45.0,73.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+117,1e999e70-93e5-11eb-91fb-73d498260b10,Dades,72.0,100,0.0,68.8,REVIEW,Strong name similarity | Perfect geographic match
+118,d73874c7-93e4-11eb-a736-0f5b20ecb2f1,Bonnier Magazine Data,59.75,100,0.0,63.9,REVIEW,Moderate name similarity | Perfect geographic match
+119,01e830c0-93e5-11eb-91fb-73d498260b10,Daily Dunya,80.6,60,15.0,59.24,REVIEW,Strong name similarity | Country match | Some business context match
+120,070edae0-93e5-11eb-b4a6-27899be4e45d,Dansk Kredit Råd,100.0,60,45.0,73.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+121,1f89f1e3-93e5-11eb-b5f6-816dd10ac7b0,Dansk Sundhedssikring,90.2,100,0.0,76.08,ACCEPT,Strong name similarity | Perfect geographic match
+122,c6eb5470-93e4-11eb-9937-4fab995bf8ff,Danske Bank,100.0,60,52.5,74.5,ACCEPT,Strong name similarity | Country match | Moderate business context match
+123,fdd5fee0-9bc7-11ec-abde-87ab8965fdf7,Dantec Nordics,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+124,08e9dc7d-93e5-11eb-919a-b3f9a5ad205c,DEAS Group,71.9,80,20.0,64.76,REVIEW,Strong name similarity | Perfect geographic match | Some business context match
+125,2840eeb8-93e5-11eb-8859-29e7c34dee35,Deko Style,62.8,100,12.0,67.52,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+126,8647efa3-93e4-11eb-90d2-e3355a7e800b,Delfi Technologies,100.0,100,60.0,92.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+127,beddde1c-93e4-11eb-8859-29e7c34dee35,Dell,95.15,100,0.0,78.06,ACCEPT,Strong name similarity | Perfect geographic match
+128,1fe10718-f025-11ee-9eb6-8ba0a080e844,Dellstore Thailand,63.7,60,6.0,50.68,REVIEW,Moderate name similarity | Country match | Some business context match
+129,0e7148d3-f82f-11ed-ad06-ab02ea1aeed6,Promac Products,76.25,60,15.0,57.5,REVIEW,Strong name similarity | Country match | Some business context match
+130,b69603af-1aff-11ec-bc98-195cbdc2446a,Deloitte Norge,67.02,100,35.0,73.81,ACCEPT,Moderate name similarity | Perfect geographic match | Moderate business context match
+131,b69603af-1aff-11ec-bc98-195cbdc2446a,Deloitte Norge,85.0,100,40.0,82.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+132,4d8576a2-14c1-11ee-98f2-2b13cee7793d,Deloitte Consulting Malaysia Sdn Bhd.,100.0,100,80.0,96.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+133,b14fddd0-93e4-11eb-b89f-536884b3e7dd,Revisto Statsautoriseret Revisionspartnerselskab,100.0,60,40.0,72.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+134,0ede7fca-2dc6-11ec-b49b-63e83532064d,Aalborg Engineering A/S.,64.4,80,18.0,61.36,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+135,169a31db-93e5-11eb-919a-b3f9a5ad205c,Eltek,97.35,100,15.0,81.94,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+136,70923a3d-93e4-11eb-a33a-a3dfba582839,Delta Electronics,84.67,100,12.86,76.44,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+137,05104ffa-e521-11ed-ac2b-f5f183184b4d,DHL Express Service Point - BAG IT DHL Partner,69.3,100,18.0,71.32,ACCEPT,Moderate name similarity | Perfect geographic match | Some business context match
+138,9d28dea3-93e4-11eb-86dd-ffbd1b53140e,DIAL ZERO,84.15,60,42.5,66.16,REVIEW,Strong name similarity | Country match | Moderate business context match
+139,1821bc30-93e5-11eb-a746-fdabd18be9c6,Nets group,57.32,100,0.0,62.93,REVIEW,Moderate name similarity | Perfect geographic match
+140,552fe559-0a14-11ee-85fd-21b9fc92c580,DIGI TELECOMMUNICATIONS SDN BHD Terengganu,100.0,60,65.0,77.0,ACCEPT,Strong name similarity | Country match | Strong business context match
+141,c2b35013-93e4-11eb-b997-8dd98d09cf25,DiGi Telecommunications,100.0,100,60.0,92.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+142,2015b020-725d-11ec-8323-2bafca655da8,ANDERS LASSEN FONDEN,39.5,100,0.0,55.8,REVIEW,Perfect geographic match
+143,08e683e0-1827-11ee-b0e3-d3f35f2a4259,DNA Oy.,100.0,60,0.0,64.0,REVIEW,Strong name similarity | Country match
+144,713a067e-a5ad-11ef-99b4-e30dab6798c3,DNB BANK,87.45,100,45.0,83.98,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+145,8bcafce7-fd80-11ec-b001-69323b7ad0d1,Dansk System Assurance A/S.,66.71,60,36.25,57.94,REVIEW,Moderate name similarity | Country match | Moderate business context match
+146,5ed6dfd6-205c-11ee-8d01-ef4abbbd90e4,Dtac-trinet,74.8,60,0.0,53.92,REVIEW,Strong name similarity | Country match
+147,18777d50-93e5-11eb-be3a-7f925cb94351,Dubex,97.35,100,20.0,82.94,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+148,d3ccacb0-a3ce-11ed-b93a-8509659c73d1,DXC Technology Norge AS,100.0,60,40.0,72.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+149,f19d20b5-250a-11ec-b70f-ed0ff919fa1a,DXC Technology Sverige AB.,100.0,60,40.0,72.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+150,6fef3cc3-499f-11ee-955d-cffc14e1ac7f,Dynamic-Telecommunication Sdn Bhd.,100.0,60,65.0,77.0,ACCEPT,Strong name similarity | Country match | Strong business context match
+151,6cc2cc31-a630-11ed-9a26-bbb8582c677b,Eastcompeace Singapore Pte Ltd.,100.0,100,35.0,87.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+152,203f5ad6-b918-11ed-bc6c-cde58c4dffa0,Eastcompeace Smart Card Bangladesh Limited.,100.0,60,70.0,78.0,ACCEPT,Strong name similarity | Country match | Strong business context match
+153,d3e5dfe4-123f-11ec-b7b8-257f68cd18d4,Eastcompeace,84.12,100,50.5,83.75,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+154,2a2e9a98-1200-11ec-b96f-e38fcfed8310,eCapacity,100.0,100,45.0,89.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+155,2b50edd1-93e5-11eb-a746-fdabd18be9c6,ECI Media Management,100.0,100,47.5,89.5,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+156,2b50edd1-93e5-11eb-a746-fdabd18be9c6,ECI Media Management,100.0,60,47.5,73.5,ACCEPT,Strong name similarity | Country match | Moderate business context match
+157,c01a55bf-93e4-11eb-9937-4fab995bf8ff,EDOTCO Group,96.25,60,45.0,71.5,ACCEPT,Strong name similarity | Country match | Moderate business context match
+158,02a936d3-93e5-11eb-b4a6-27899be4e45d,Pharma Consultant Pakistan,51.1,60,25.0,49.44,REJECT,Moderate name similarity | Country match | Some business context match
+159,386ddce7-93e5-11eb-b4a6-27899be4e45d,Egencia,82.47,60,7.5,58.49,REVIEW,Strong name similarity | Country match | Some business context match
+160,21683381-0e12-11ec-9290-4759484bcf45,Egencia New Zealand,77.1,60,30.0,60.84,REVIEW,Strong name similarity | Country match | Moderate business context match
+161,06e4ced6-ff7f-11eb-84ab-359586b9329a,Egencia,83.57,60,0.0,57.43,REVIEW,Strong name similarity | Country match
+162,3198bf61-93e5-11eb-8e19-198fb02d6f96,Egencia,83.57,0,10.0,35.43,REJECT,Strong name similarity | Some business context match
+163,9ade0445-93e4-11eb-8ad6-7326edce8d21,eGeneration,95.15,100,70.0,92.06,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+164,a2262c10-f5c0-11ed-bf28-41d352466f20,Freetrailer trailerudlejning Elgiganten Glostrup,60.42,100,15.0,67.17,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+165,f2d78814-93e4-11eb-8859-29e7c34dee35,Eltel Networks,94.6,100,66.0,91.04,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+166,ab422f07-93e4-11eb-86dd-ffbd1b53140e,Energy Cool,100.0,100,68.0,93.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+167,0a8c7fb4-1403-11ec-9819-3df44af6372a,Spółka OLOGROUP Spółka z ograniczoną odpowiedzialnością,76.48,60,0.0,54.59,REVIEW,Strong name similarity | Country match
+168,08a30f82-93e5-11eb-b5f6-816dd10ac7b0,Eniig Energi Naturgas,52.4,100,6.0,62.16,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+169,dd63e4c0-93e4-11eb-8ad6-7326edce8d21,Campaigns,85.77,60,0.0,58.31,REVIEW,Strong name similarity | Country match
+170,03f8d710-588f-11ec-a973-1debdfc94bd7,Ericsson Telecommunications Sdn. Bhd.,80.05,60,20.0,60.02,REVIEW,Strong name similarity | Country match | Some business context match
+171,d2916f52-250a-11ec-8093-db09f614eb78,Ericsson Thailand Ltd.,100.0,100,45.0,89.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+172,0332d405-f8c2-11ed-bfe7-b13fb516b9f1,Ericsson,100.0,60,15.0,67.0,REVIEW,Strong name similarity | Country match | Some business context match
+173,ff083300-a7b5-11ed-bec3-afeedabcf530,Ericsson AS,100.0,60,20.0,68.0,REVIEW,Strong name similarity | Country match | Some business context match
+174,36729930-2d35-11ed-98d8-c5babc9e48bf,Ericsson,84.12,60,15.0,60.65,REVIEW,Strong name similarity | Country match | Some business context match
+175,daa8f764-0040-11ef-9687-91451869a05d,Ernst Engineering Pte. Ltd.,53.87,60,10.0,47.55,REJECT,Moderate name similarity | Country match | Some business context match
+176,f977dde5-f3a1-11ed-b737-7b786e8fdbf4,Ey Grønland Godkendt Revisionsanpartsselskab,96.23,80,20.0,74.49,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+177,33a00afc-f81d-11ed-8ed0-97e170af3960,Batteriindsamling ERP Denmark ApS.,99.1,100,0.0,79.64,ACCEPT,Strong name similarity | Perfect geographic match
+178,e87217f9-93e4-11eb-8ad6-7326edce8d21,Estel Technologies,92.95,80,65.0,82.18,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+179,328c2081-25e7-11ec-a051-939956ac8241,Eutelsat Asia,95.55,100,25.0,83.22,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+180,8674cc02-93e4-11eb-be5a-4f810ab55f2e,Ework Group,95.15,100,25.0,83.06,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+181,c2b5c128-93e4-11eb-8ad6-7326edce8d21,NORDIC MEDICAL SOLUTIONS,55.12,100,10.0,64.05,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+182,ef614d16-93e4-11eb-aa66-9b8d95e2171b,Universal Music,35.2,100,0.0,54.08,REVIEW,Perfect geographic match
+183,3034bc10-74ad-11ed-9364-a958028bfff1,EXFO Finland Oy.,72.7,100,15.0,72.08,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+184,4492f480-6dc1-11ec-8496-47d4a2350ae0,Exide technologies AS avd Stavanger,100.0,60,40.0,72.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+185,14903104-93e5-11eb-90d2-e3355a7e800b,Al Huda Publications,66.25,60,70.0,64.5,REVIEW,Moderate name similarity | Country match | Strong business context match
+186,5890bff3-112b-11ec-b06c-d1fadf322ad0,EXTENDA RETAIL,91.5,100,37.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+187,631c5ae7-e7f1-11ec-ad32-8d2a499c20f7,F5 Networks Inc.,93.78,60,46.0,70.71,ACCEPT,Strong name similarity | Country match | Moderate business context match
+188,6de3c7f3-0472-11ec-8154-fd26fdffca6b,Facebook Training Ireland,84.73,60,45.0,66.89,REVIEW,Strong name similarity | Country match | Moderate business context match
+189,e9312230-93e4-11eb-86dd-ffbd1b53140e,Falck,78.07,100,7.5,72.73,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+190,4cba9ee5-a61b-11ed-aaa4-6b695d8a952d,Siab M Sdn Bhd.,72.5,100,0.0,69.0,REVIEW,Strong name similarity | Perfect geographic match
+191,ff5c55c1-93e4-11eb-aa66-9b8d95e2171b,Favro,78.07,100,0.0,71.23,ACCEPT,Strong name similarity | Perfect geographic match
+192,e2e59257-66d6-11ef-82dc-5501d2cdf0a4,Fiberail Sdn Bhd - Rasah,100.0,60,20.0,68.0,REVIEW,Strong name similarity | Country match | Some business context match
+193,aade3d11-93e4-11eb-919a-b3f9a5ad205c,FIBRECOMM,76.5,100,83.0,87.2,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+194,149e2513-aac5-11ef-8555-0dd834e09bbc,Dansk Iso Teknik,87.2,60,15.0,61.88,REVIEW,Strong name similarity | Country match | Some business context match
+195,44240fe3-93e5-11eb-919a-b3f9a5ad205c,Form Danmark,100.0,80,0.0,72.0,ACCEPT,Strong name similarity | Perfect geographic match
+196,33003ea0-93e5-11eb-b5f6-816dd10ac7b0,Dalen legesenter,38.4,100,7.5,56.86,REVIEW,Perfect geographic match | Some business context match
+197,5b67817a-1b01-11ec-adc9-5d86e79c45f3,Gartner Advisory S Pte Ltd.,100.0,100,40.0,88.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+198,21d91ebf-1b00-11ec-a8e8-f10d0988514b,Gartner Norge,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+199,0165a523-f0b3-11ee-849e-f5d408dc71cd,PAF SECURITISATION NO.,33.6,100,59.0,65.24,REVIEW,Perfect geographic match | Moderate business context match
+200,ce7a4c04-93e4-11eb-90d2-e3355a7e800b,Genex Infosys,100.0,100,50.0,90.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+201,23524480-93e5-11eb-b5f6-816dd10ac7b0,Geo TV Network,41.4,60,54.0,51.36,REVIEW,Moderate name similarity | Country match | Moderate business context match
+202,404994d0-93e5-11eb-8474-3bbe2d07207d,Gintel Norway,81.25,100,15.0,75.5,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+203,d9a64075-93e4-11eb-9937-4fab995bf8ff,GlobalConnect,100.0,60,38.0,71.6,ACCEPT,Strong name similarity | Country match | Moderate business context match
+204,fe92eb43-93e4-11eb-9937-4fab995bf8ff,Glory Fashions,100.0,100,35.0,87.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+205,eb6bf704-93e4-11eb-97db-273ba5953680,Goecker since 1862,78.67,100,7.5,72.97,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+206,b8ca3bec-93e4-11eb-9937-4fab995bf8ff,GoGift,73.6,60,0.0,53.44,REVIEW,Strong name similarity | Country match
+207,1d514729-01ae-11ef-ba8c-a5c322c4d97c,Google Asia Pacific Pte. Ltd.,100.0,60,35.0,71.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+208,a7fea907-199d-11f0-9eba-c9ebbf6c8560,Google Cloud,90.75,0,27.5,41.8,REJECT,Strong name similarity | Some business context match
+209,be55a775-c4b2-11ec-af9f-718ab7b26330,Google Commerce Limited,100.0,60,50.0,74.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+210,be55a775-c4b2-11ec-af9f-718ab7b26330,Google Commerce Limited,85.73,100,50.0,84.29,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+211,0e257043-dc98-11ef-b8b0-a1dc081da81f,Grameenphone Centre,88.95,60,15.0,62.58,REVIEW,Strong name similarity | Country match | Some business context match
+212,09dabf8f-02f4-11ed-97ce-2bd0fada5731,Jysk Auto ApS.,49.07,100,10.0,61.63,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+213,ba0505da-93e4-11eb-97db-273ba5953680,GREEN PACKET,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+214,205a2882-092a-11ee-b84c-9b2922821bc8,GreenMind,100.0,60,20.0,68.0,REVIEW,Strong name similarity | Country match | Some business context match
+215,5e9513a1-d868-11ed-b943-0b8fb5e4efa0,ADVERTISING BANGLADESH,99.05,60,15.0,66.62,REVIEW,Strong name similarity | Country match | Some business context match
+216,029ed695-93e5-11eb-91fb-73d498260b10,GSM London,58.8,100,15.0,66.52,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+217,4214b8bf-1d88-11ef-a07a-c90c75a354c8,Harbin Xinju New Energy Co. Ltd.,98.22,100,40.0,87.29,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+218,a40484c0-0ae9-11ec-8b96-2f712d78ea00,Sikring Vest A/S.,87.93,60,20.0,63.17,REVIEW,Strong name similarity | Country match | Some business context match
+219,8dbea451-93e4-11eb-a33a-a3dfba582839,HELP Försäkring,82.07,60,15.0,59.83,REVIEW,Strong name similarity | Country match | Some business context match
+220,a90e10f4-93e4-11eb-be5a-4f810ab55f2e,HELP Forsikring,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+221,bb79f296-93e4-11eb-86dd-ffbd1b53140e,HELP Forsikring,77.52,100,10.0,73.01,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+222,8de2ce1b-93e4-11eb-a33a-a3dfba582839,Herm,72.57,80,0.0,61.03,REVIEW,Strong name similarity | Perfect geographic match
+223,19b24740-93e5-11eb-aa66-9b8d95e2171b,HEST Agentur,100.0,100,35.0,87.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+224,6cf9d142-93e4-11eb-8859-29e7c34dee35,HETEK,97.35,100,20.0,82.94,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+225,c4a8edac-a10f-11ed-8865-3b27972b8eff,Hewlett-Packard M Sdn. Bhd.,100.0,60,20.0,68.0,REVIEW,Strong name similarity | Country match | Some business context match
+226,c71f7ee3-0402-11ef-a267-5139ead7b0d4,Hewlett-Packard Thailand Company Limited,99.23,60,35.0,70.69,ACCEPT,Strong name similarity | Country match | Moderate business context match
+227,571d319b-1e68-11ee-8977-f9df9a4bf47f,Hewlett-Packard ApS.,100.0,60,0.0,64.0,REVIEW,Strong name similarity | Country match
+228,00bb2912-918f-11ed-b02c-eb054ee9ca4a,Linestore,39.2,100,0.0,55.68,REVIEW,Perfect geographic match
+229,d3c03269-e0ca-11ee-af37-875b13c328d9,Hewlett Packard Depot Rd,75.32,100,0.0,70.13,ACCEPT,Strong name similarity | Perfect geographic match
+230,4676a351-f930-11ed-b4e8-cf8e051b3eab,Hewlett-Packard Sverige AB.,100.0,60,20.0,68.0,REVIEW,Strong name similarity | Country match | Some business context match
+231,d778d926-93e4-11eb-be5a-4f810ab55f2e,High Touch Remodeling,90.58,100,20.0,80.23,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+232,acbf3216-93e4-11eb-a746-fdabd18be9c6,Holdsport,80.0,100,0.0,72.0,ACCEPT,Strong name similarity | Perfect geographic match
+233,421f907b-c406-11ef-abec-3bdf402d3fc2,Hoppecke Batterien bremecketal,80.75,60,0.0,56.3,REVIEW,Strong name similarity | Country match
+234,f6162cf3-5a2d-11ed-be40-7d734d234848,HP Inc Thailand Ltd.,92.6,80,15.0,72.04,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+235,e861f812-cf3e-11ed-a9e6-41f52173ea03,HP Inc Denmark ApS.,100.0,100,15.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+236,6fb6df80-918f-11ed-9198-5108792e5842,HP Norge,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+237,d5c3fb2e-a8c9-11ef-9c3c-1f32e3c7982a,HP PPS Sales Sdn Bhd.,100.0,100,60.0,92.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+238,043024f0-93e5-11eb-b5f6-816dd10ac7b0,HP Alumni Singapore,68.67,60,0.0,51.47,REVIEW,Moderate name similarity | Country match
+239,81727301-2350-11ec-be87-a3acfe0d4893,Huawei Enterprise,60.1,60,17.5,51.54,REVIEW,Moderate name similarity | Country match | Some business context match
+240,b51941d7-93e4-11eb-a746-fdabd18be9c6,Shahidul Islam Sarker,32.3,60,52.5,47.42,REJECT,Country match | Moderate business context match
+241,3821892f-0c58-11ec-a1e5-5b23ac48a38b,Xplora Technologies Denmark,87.5,100,40.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+242,3e229adb-f5be-11ed-9659-9b00f4ea9e93,Huawei Technologies Malaysia Sdn Bhd TRX,100.0,100,40.0,88.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+243,98a3b367-2d1d-11ed-bff5-21b6c2658068,Huawei Technologies Thailand Co Ltd.,100.0,60,60.0,76.0,ACCEPT,Strong name similarity | Country match | Strong business context match
+244,fea798e2-1afc-11ec-9308-05476ec24aab,Huawei Technologies Norway AS,100.0,100,40.0,88.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+245,ca2f9ba8-8aa4-11ec-9066-739984ffef59,HUAWEI Pakistan,74.45,100,46.0,78.98,ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+246,12b12a85-8a9a-11ec-8fbd-9d5235221413,Huawei Sweden,82.9,60,47.5,66.66,REVIEW,Strong name similarity | Country match | Moderate business context match
+247,7d5aecb0-1b05-11ec-88d5-df9161de908b,Huber Suhner A/S.,100.0,60,20.0,68.0,REVIEW,Strong name similarity | Country match | Some business context match
+248,0ac24602-93e5-11eb-8474-3bbe2d07207d,HUBER SUHNER Sales Partners,63.1,100,35.0,72.24,ACCEPT,Moderate name similarity | Perfect geographic match | Moderate business context match
+249,6e3a4071-93e4-11eb-be3a-7f925cb94351,HUBER SUHNER Polatis Limited sp.z o.o.,62.25,0,50.0,34.9,REJECT,Moderate name similarity | Moderate business context match
+250,395074a2-93e5-11eb-a746-fdabd18be9c6,Hum Network,98.48,60,50.0,73.39,ACCEPT,Strong name similarity | Country match | Moderate business context match
+251,14161f0e-93e5-11eb-97db-273ba5953680,Human Edge,87.45,100,70.5,89.08,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+252,f035adb0-d13e-11ec-a4fa-c3f40e4b757a,Hydro Rein,68.62,100,0.0,67.45,REVIEW,Moderate name similarity | Perfect geographic match
+253,ccf0aeb1-1b03-11ec-a15b-458b278fe121,IBM CIC.,53.97,60,15.0,48.59,REJECT,Moderate name similarity | Country match | Some business context match
+254,33e93227-8a9a-11ec-8f0a-eb02b2415b08,IDEMIA France SAS.,100.0,60,25.0,69.0,REVIEW,Strong name similarity | Country match | Some business context match
+255,03831c14-93e5-11eb-a33a-a3dfba582839,Oberthur Technologies,99.55,0,55.0,50.82,REVIEW,Strong name similarity | Moderate business context match
+256,b08bf185-93e4-11eb-919a-b3f9a5ad205c,Ikano Bank,69.96,100,57.86,79.56,ACCEPT,Moderate name similarity | Perfect geographic match | Moderate business context match
+257,d17fb890-2507-11ec-af5c-e506962f8a3b,Bangla Trac Miaki Vas Limited,72.8,60,50.0,63.12,REVIEW,Strong name similarity | Country match | Moderate business context match
+258,df37ba50-93e4-11eb-b89f-536884b3e7dd,IMImobile,81.92,100,90.0,90.77,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+259,c2a15e50-d5c4-11ee-b607-b56d5b475a9b,Independent Pak Media,78.2,60,47.0,64.68,REVIEW,Strong name similarity | Country match | Moderate business context match
+260,3eb2bbab-17c0-11f0-af94-ddfd1c46b53d,INFINERA CORP,93.2,100,30.0,83.28,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+261,fa89bf14-93e4-11eb-9937-4fab995bf8ff,INFOMEDIA,100.0,100,28.0,85.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+262,dcc5e190-22df-11ec-817c-6169a8cec47d,Infosys Limited,100.0,100,90.0,98.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+263,23bb110e-49a8-11ef-b831-79711486170a,INGRAM MICRO NORDIC LOGISTICS AB.,77.6,60,0.0,55.04,REVIEW,Strong name similarity | Country match
+264,72c0cb60-0a5c-11ed-93fa-95e7af8bdf7c,InLumi DOT,81.25,60,0.0,56.5,REVIEW,Strong name similarity | Country match
+265,b99023f2-93e4-11eb-a33a-a3dfba582839,InsiderSecurity,80.2,60,48.0,65.68,REVIEW,Strong name similarity | Country match | Moderate business context match
+266,99015501-93e4-11eb-b4a6-27899be4e45d,Integrity Risk International,100.0,100,60.5,92.1,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+267,886a8187-93e4-11eb-b4a6-27899be4e45d,Intouch Insight,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+268,80676990-046d-11ec-ba9b-a77fedb4aa80,Intrum,73.65,60,45.0,62.46,REVIEW,Strong name similarity | Country match | Moderate business context match
+269,027dcd78-f778-11ee-a5a9-7131efb71ece,ADVIS s.r.o.,93.2,0,20.0,41.28,REJECT,Strong name similarity | Some business context match
+270,9b3460e0-4e9a-11ef-9005-197c1f23de9c,IPG Mediabrands APAC,80.15,60,52.0,66.46,REVIEW,Strong name similarity | Country match | Moderate business context match
+271,dff13de7-1afd-11ec-a31a-a7a88bbb321b,Ipsos Sdn Bhd.,100.0,60,20.0,68.0,REVIEW,Strong name similarity | Country match | Some business context match
+272,52dd79a7-64a6-11ee-8ba4-c1d00e9cebfd,ISS Facility Services Ltd.,100.0,100,74.0,94.8,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+273,4cf5285b-27d1-11ef-bd6f-218060e3190a,ISS Facility Services AB.,100.0,60,70.0,78.0,ACCEPT,Strong name similarity | Country match | Strong business context match
+274,efbe1611-263f-11ec-b5b4-bfd9daeb9f18,ISS Facility Services AS,100.0,100,73.0,94.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+275,c2b80b00-93e4-11eb-a33a-a3dfba582839,ISS,72.57,60,7.5,54.53,REVIEW,Strong name similarity | Country match | Some business context match
+276,6d50f1e1-93e4-11eb-b4a6-27899be4e45d,Itectra,100.0,80,45.0,81.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+277,aceeb54f-027f-11ec-adbd-5ff720d6d289,Jack of Digital,92.75,100,71.0,91.3,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+278,3b4ba864-93e5-11eb-b5f6-816dd10ac7b0,Jansson El,35.6,100,0.0,54.24,REVIEW,Perfect geographic match
+279,7f176bc0-93e4-11eb-a746-fdabd18be9c6,Jastel,74.2,60,70.5,67.78,REVIEW,Strong name similarity | Country match | Strong business context match
+280,117f0e3f-9c88-11ef-8bab-03376d671938,JLL CORPORATE SOLUTIONS AB.,100.0,60,25.0,69.0,REVIEW,Strong name similarity | Country match | Some business context match
+281,95040fb3-93e4-11eb-9937-4fab995bf8ff,Jobindex,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+282,04f6a945-93e5-11eb-8474-3bbe2d07207d,International Tax Management,32.6,100,30.0,59.04,REVIEW,Perfect geographic match | Moderate business context match
+283,3029aeeb-1b04-11ec-be44-b33b64e33ebc,Johnson Controls Denmark ApS Head office,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+284,a0c7c82f-a62d-11ed-b2cd-53de41d2c5f2,Jones Lang Lasalle Property Consultants Pte. Ltd.,100.0,60,80.0,80.0,STRONG_ACCEPT,Strong name similarity | Country match | Strong business context match
+285,14b174a0-93e5-11eb-8ad6-7326edce8d21,Kahoot,79.17,0,10.0,33.67,REJECT,Strong name similarity | Some business context match
+286,1914a7b2-93e5-11eb-8474-3bbe2d07207d,Loyal Solutions,26.1,100,7.5,51.94,REVIEW,Perfect geographic match | Some business context match
+287,0013bee4-93e5-11eb-b89f-536884b3e7dd,Kantar,86.32,100,0.0,74.53,ACCEPT,Strong name similarity | Perfect geographic match
+288,39d1a58b-0586-11ec-ad6d-99fb67e6c4ba,KAON BROADBAND,100.0,100,7.5,81.5,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+289,da7ed6a5-fb93-11ee-aa89-23a399016fc1,Kerry Freight Pakistan PVT LTD.,99.8,60,88.0,81.52,STRONG_ACCEPT,Strong name similarity | Country match | Strong business context match
+290,d06cf44c-93e4-11eb-a33a-a3dfba582839,Kerry Logistics,90.75,60,83.0,76.9,ACCEPT,Strong name similarity | Country match | Strong business context match
+291,ea275f75-2672-11ee-aaf2-7fedf3310a03,Kinly AS avd Trondheim,67.43,60,20.0,54.97,REVIEW,Moderate name similarity | Country match | Some business context match
+292,b0eab351-93e4-11eb-be5a-4f810ab55f2e,Kinnarps,100.0,80,0.0,72.0,ACCEPT,Strong name similarity | Perfect geographic match
+293,db8d8f95-f669-11ed-a149-9b392686bc00,Foretak. KLM-Royal Dutch Airlines filial Av utenlandsk,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+294,483419e2-93e5-11eb-8474-3bbe2d07207d,KM TELECOM,90.75,100,63.0,88.9,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+295,04664e62-f73e-11ed-828d-457da4dc0427,Venture Group A/S.,83.83,60,0.0,57.53,REVIEW,Strong name similarity | Country match
+296,34512921-cd98-11ec-8506-afdec304713d,AUTOR,23.4,100,0.0,49.36,REJECT,Perfect geographic match
+297,48005fb1-93e5-11eb-8474-3bbe2d07207d,Kølegruppen Øst ApS.,98.17,60,0.0,63.27,REVIEW,Strong name similarity | Country match
+298,0367192e-2d03-11ef-952e-0de48eef49d7,Frederikssund St.,73.82,60,45.0,62.53,REVIEW,Strong name similarity | Country match | Moderate business context match
+299,2a5d0b59-1b05-11ec-8de4-3bb83042adac,Korn Ferry,90.75,100,50.0,86.3,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+300,f06c2d62-93e4-11eb-919a-b3f9a5ad205c,Kpmg AS,88.03,60,20.0,63.21,REVIEW,Strong name similarity | Country match | Some business context match
+301,52c95451-18ff-11f0-b726-e3ae0b5c2c98,Kroll,67.05,100,56.0,78.02,ACCEPT,Moderate name similarity | Perfect geographic match | Moderate business context match
+302,76c8a6a0-93e4-11eb-b89f-536884b3e7dd,Kromann Reumert,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+303,179b9c40-93e5-11eb-97db-273ba5953680,Bording Cognito AS,51.8,100,0.0,60.72,REVIEW,Moderate name similarity | Perfect geographic match
+304,b62def1d-09ce-11ed-b7b2-8da18dc3cc6a,LEASE A BOX,63.7,60,12.0,51.88,REVIEW,Moderate name similarity | Country match | Some business context match
+305,fb1700e9-1b5d-11ec-9e2d-97948a03f19d,Leaseplan,85.77,100,10.0,76.31,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+306,9b2222a0-9c13-11ec-a427-3716f54dd1e5,LEOCH Battery,96.8,100,18.0,82.32,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+307,87a7dad6-cd82-11ec-b775-d339108ca9d0,LinkedIn Ireland Unlimited Company,100.0,0,50.0,50.0,REVIEW,Strong name similarity | Moderate business context match
+308,bd538962-a9a1-11ec-819d-93d1c51cb0f0,Linkedin Local Singapore,88.1,100,0.0,75.24,ACCEPT,Strong name similarity | Perfect geographic match
+309,8fc467df-1b06-11ec-a68d-499e0c2c3a34,LM Ericsson Bangladesh Ltd.,100.0,60,15.0,67.0,REVIEW,Strong name similarity | Country match | Some business context match
+310,046f9ef0-93e5-11eb-86dd-ffbd1b53140e,Torp Byg,31.6,100,0.0,52.64,REVIEW,Perfect geographic match
+311,3700913b-93e5-11eb-a746-fdabd18be9c6,Loyalty,100.0,100,15.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+312,b43ac8b9-93e4-11eb-a746-fdabd18be9c6,MAKIO,94.05,80,15.0,72.62,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+313,194b4815-93e5-11eb-a736-0f5b20ecb2f1,Manpower,84.12,100,25.0,78.65,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+314,753387b2-93e4-11eb-aa66-9b8d95e2171b,MANPOWER,100.0,100,40.0,88.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+315,9e655640-93e4-11eb-a736-0f5b20ecb2f1,MapsPeople,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+316,49eaca92-93e5-11eb-a33a-a3dfba582839,Markedssjefene,100.0,100,15.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+317,002ff970-93e5-11eb-8ad6-7326edce8d21,Colas Danmark,63.6,60,0.0,49.44,REJECT,Moderate name similarity | Country match
+318,9ebf87d2-0b0f-11ec-919d-09f69a4e0983,Gulbrandsen Agencies,62.0,100,15.0,67.8,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+319,86550f01-93e4-11eb-97db-273ba5953680,Maven Wireless,95.7,100,55.5,89.38,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+320,8a8769f3-f8b6-11ed-9214-3d96876bd85b,Mavenir Systems AB.,100.0,60,90.0,82.0,STRONG_ACCEPT,Strong name similarity | Country match | Strong business context match
+321,778051d9-057a-11ec-b41b-d7058b59cf68,Mavenir Systems Inc.,97.68,60,50.0,73.07,ACCEPT,Strong name similarity | Country match | Moderate business context match
+322,bdb7856e-df67-11ed-b4c2-f1d5e4fb0acf,Mavenir Ipa Uk Limited,93.55,60,50.0,71.42,ACCEPT,Strong name similarity | Country match | Moderate business context match
+323,8d59b57e-158e-11ee-8e47-1914f721b470,Measat Broadcast Systems Sdn Bhd.,93.25,60,70.0,75.3,ACCEPT,Strong name similarity | Country match | Strong business context match
+324,37de0385-e6d6-11ed-8bb1-3d6aecbca671,Media Times Ltd.,100.0,80,70.0,86.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+325,ca6898fe-0d75-11ec-bc3a-abf705312cc2,Meisel AS,91.88,60,0.0,60.75,REVIEW,Strong name similarity | Country match
+326,68a204a1-a872-11ed-a172-c70b75c2da79,META World,53.5,60,55.0,56.4,REVIEW,Moderate name similarity | Country match | Moderate business context match
+327,146bd77c-4d69-11ed-b869-0b9c3de59569,Microsoft Ireland Operations,100.0,100,25.0,85.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+328,4c721116-1afb-11ec-8511-032f81df2a60,Microsoft Norway,85.47,100,10.0,76.19,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+329,161cca55-0fef-11ee-8498-a97a19847758,Micro Express Sales Pte Ltd.,80.15,100,40.0,80.06,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+330,2c53d1f1-6cf9-11ec-a598-5f2181f71be8,ABC Spilleautomater,79.47,60,0.0,55.79,REVIEW,Strong name similarity | Country match
+331,008645a7-332c-11ec-ba1b-799c0ee08065,SJ Gruppen,81.67,60,0.0,56.67,REVIEW,Strong name similarity | Country match
+332,cd4156d5-93e4-11eb-91fb-73d498260b10,Mixpanel,99.0,100,15.0,82.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+333,b86d48c0-b500-11ec-92c5-7f4ee7009bc8,mnemonic AS.,100.0,100,15.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+334,a112cce1-0fd4-11ec-bad9-ebcc1813e8d3,Mobilepeople,100.0,80,40.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+335,5577f372-a5dd-11ef-aeae-313c0af7c979,Mobileum,99.0,100,60.0,91.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+336,40e47543-93e5-11eb-8ad6-7326edce8d21,Modulex,82.47,100,0.0,72.99,ACCEPT,Strong name similarity | Perfect geographic match
+337,0c78cf9d-93e5-11eb-86dd-ffbd1b53140e,Monday,84.67,100,10.0,75.87,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+338,b67a2282-e926-11ed-bb20-d929ca7b3418,Mustika Teratai Sdn. Bhd.,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+339,fd8f8506-93e4-11eb-a33a-a3dfba582839,Nagarro ES,100.0,0,30.0,46.0,REJECT,Strong name similarity | Moderate business context match
+340,3038e1e5-f85b-11ed-b4e8-e74dfe271a42,Nagarro Hiring Team,54.0,60,15.0,48.6,REJECT,Moderate name similarity | Country match | Some business context match
+341,c43c3a03-93e4-11eb-8e19-198fb02d6f96,NEC Corporation of Malaysia,100.0,100,40.0,88.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+342,24db63d1-8aa4-11ec-9150-8d453a1e7910,NEC Corporation Of Malaysia Sdn. Bhd.,100.0,100,35.0,87.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+343,017131b8-046b-11ec-8cc5-dd2bf7d5b9b0,Scandinavian Packages,70.6,60,15.0,55.24,REVIEW,Strong name similarity | Country match | Some business context match
+344,0cf1a919-93e5-11eb-86dd-ffbd1b53140e,NemTilmeld,81.6,100,0.0,72.64,ACCEPT,Strong name similarity | Perfect geographic match
+345,b1c3fc50-93e4-11eb-a736-0f5b20ecb2f1,Nepa Sweden AB.,96.05,100,0.0,78.42,ACCEPT,Strong name similarity | Perfect geographic match
+346,a19f2484-93e4-11eb-b4a6-27899be4e45d,Neras direkte,100.0,60,20.0,68.0,REVIEW,Strong name similarity | Country match | Some business context match
+347,83ad4797-93e4-11eb-97db-273ba5953680,Nestor Cables,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+348,36898c82-93e5-11eb-97db-273ba5953680,Net One Asia,98.25,100,0.0,79.3,ACCEPT,Strong name similarity | Perfect geographic match
+349,3e619af8-93e5-11eb-8859-29e7c34dee35,Netic,97.35,100,0.0,78.94,ACCEPT,Strong name similarity | Perfect geographic match
+350,1821bc30-93e5-11eb-a746-fdabd18be9c6,Nets group,57.32,100,0.0,62.93,REVIEW,Moderate name similarity | Perfect geographic match
+351,1238cd68-9cd4-11ef-b56b-31d2bc338e4f,New Skies Satellites B.V.,100.0,100,40.0,88.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+352,01004641-1dd8-11ef-9268-316fc8e174dd,Private Helipad Ali Villa,52.35,100,15.0,63.94,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+353,4e2b08a3-a477-11ed-8bb2-9375f2c4b1be,Nexcom A/S.,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+354,0bc250d0-93e5-11eb-b5f6-816dd10ac7b0,Experian,24.2,100,25.0,54.68,REVIEW,Perfect geographic match | Some business context match
+355,3d547a04-72bb-11ec-b5ce-b3bda5adefa4,Nokia Foundation,75.27,100,10.0,72.11,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+356,74601f29-1afc-11ec-aa0f-ab42aaaa4d70,Nokia Solutions And Networks Sdn Bhd.,89.94,60,90.0,77.97,ACCEPT,Strong name similarity | Country match | Strong business context match
+357,fe6b73d3-2680-11ee-8d0e-696f5907b182,Nokia Siemens Networks Norge AS,93.88,60,90.0,79.55,ACCEPT,Strong name similarity | Country match | Strong business context match
+358,d3b679f6-93e4-11eb-b89f-536884b3e7dd,Nokia Solutions and Networks,100.0,100,70.0,94.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+359,3cdcf6c0-93e5-11eb-919a-b3f9a5ad205c,Nordea Bank,81.37,100,55.0,83.55,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+360,affc63f0-0394-11ed-9b1b-6d2c9309a5b2,Nordic Computer,100.0,100,15.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+361,8449aea3-93e4-11eb-86dd-ffbd1b53140e,Nordix Data,100.0,100,35.0,87.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+362,02ddf6f4-0953-11ed-8906-6bcfb1398b7a,Busk Demo,26.0,100,0.0,50.4,REVIEW,Perfect geographic match
+363,d3abb197-0550-11ec-a49b-69a31ce8af0d,Norwegian Air Shuttle,100.0,60,18.0,67.6,REVIEW,Strong name similarity | Country match | Some business context match
+364,1da9722c-93e5-11eb-86dd-ffbd1b53140e,Novataris,100.0,100,10.0,82.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+365,5212c34c-f8af-11ed-b2ae-8f7420b1f92e,NTT DATA Thailand,92.18,100,35.0,83.87,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+366,00d49243-0ec5-11ec-8df7-0b73bdeba2f9,Asur Holdings,60.33,100,65.0,77.13,ACCEPT,Moderate name similarity | Perfect geographic match | Strong business context match
+367,44dda433-8ac1-11ec-b892-9b33177d601b,NTT DATA Business Solutions Hungary,86.13,100,90.14,92.48,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+368,12ff4322-f5c3-11ed-9837-d559166cf045,ITELLIGENCE,100.0,0,65.0,53.0,REVIEW,Strong name similarity | Strong business context match
+369,949c9b55-93e4-11eb-8474-3bbe2d07207d,Malaysia Microelectronic Solutions,70.65,100,31.0,74.46,ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+370,6db1413a-1d6a-11ef-8ca4-a917ae6b537d,NTT Cloud Communications Malaysia Sdn Bhd.,75.75,100,0.0,70.3,ACCEPT,Strong name similarity | Perfect geographic match
+371,a25c4651-1e9d-11ef-8493-1bd9c889e9e7,Och DK A/S.,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+372,7fc63512-e766-11ed-8e12-21371b75bda2,OK A.M.B.A. O - Vej,100.0,60,0.0,64.0,REVIEW,Strong name similarity | Country match
+373,a54919b7-93e4-11eb-b4a6-27899be4e45d,OMD World Imaging,49.7,60,0.0,43.88,REJECT,Moderate name similarity | Country match
+374,c7578028-8aa5-11ec-8962-8b4db591a2d2,OMD Norway,74.25,100,0.0,69.7,REVIEW,Strong name similarity | Perfect geographic match
+375,ac63db81-72e7-11ec-8200-bfd1296681fb,New Media Direction,98.83,100,25.0,84.53,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+376,1e65962d-93e5-11eb-b5f6-816dd10ac7b0,Omega Exim Limited,100.0,80,70.0,86.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+377,56287c74-2509-11ec-bde8-71cf682bd51e,Omnicom Media Group AS,100.0,100,50.0,90.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+378,c1a538ea-8a9a-11ec-a4f2-5511448670fd,Omnicom Media Group Asia Pacific,100.0,60,65.86,77.17,ACCEPT,Strong name similarity | Country match | Strong business context match
+379,50a6dd3e-c175-11ec-8c4a-c37e31e9be9e,ON THE SPOT,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+380,c8762b48-0c2a-11ec-807a-21b3a01de236,OneTrust ES,75.02,100,45.0,79.01,ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+381,018286d4-2350-11ec-ac8e-3fdce45b5021,Cyklop Signode Packaging Corporation Thailand Co. Ltd.,94.85,80,45.0,78.94,ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+382,fffc9bf2-b90a-11ed-96f7-a554af593b2d,Tdata Corporation Malaysia Sdn. Bhd.,100.0,60,45.0,73.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+383,870eb57e-1b04-11ec-98ad-4b5172a2ed18,Oracle Danmark,100.0,60,0.0,64.0,REVIEW,Strong name similarity | Country match
+384,147df165-1b04-11ec-9b02-8dfd4ec6ef01,Oracle Norge AS,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+385,8bfb2722-fd35-11ed-a426-59bfdd089aa2,Oracle,80.27,60,0.0,56.11,REVIEW,Strong name similarity | Country match
+386,80ea7e12-93e4-11eb-be3a-7f925cb94351,Worbis,73.4,100,0.0,69.36,REVIEW,Strong name similarity | Perfect geographic match
+387,da01a6ec-93e4-11eb-b4a6-27899be4e45d,Orogenic,99.0,100,0.0,79.6,ACCEPT,Strong name similarity | Perfect geographic match
+388,023aff72-1a0d-11ef-9384-4731bdd44328,Herrington Gate,65.85,60,0.0,50.34,REVIEW,Moderate name similarity | Country match
+389,cd85b2eb-93e4-11eb-b5f6-816dd10ac7b0,P1 Security,100.0,100,68.0,93.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+390,6dd0de70-a7a9-11ed-b250-d1c44dcd1aef,PACO CASA a,94.38,60,35.0,68.75,REVIEW,Strong name similarity | Country match | Moderate business context match
+391,09d8b5fe-ecdb-11ee-96d4-63842c7d9e5f,Pakistan Institute of Nuclear Science & Technology,100.0,100,80.0,96.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+392,10dd8776-724b-11ec-9e45-ddda6fbc521a,Parent Zone Local,53.0,100,52.0,71.6,ACCEPT,Moderate name similarity | Perfect geographic match | Moderate business context match
+393,25f18078-93e5-11eb-8859-29e7c34dee35,Aspects of History,37.0,100,25.0,59.8,REVIEW,Perfect geographic match | Some business context match
+394,c309a60b-27bf-11ef-815c-4d862d07c012,Varsta Petri,77.0,60,0.0,54.8,REVIEW,Strong name similarity | Country match
+395,424a94f5-93e5-11eb-8474-3bbe2d07207d,Ping IT,100.0,60,40.0,72.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+396,ecedc98b-8de0-11ec-9853-0b84666d34f9,Playable,99.0,100,15.0,82.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+397,7c54f062-93e4-11eb-b5f6-816dd10ac7b0,Plesner,76.45,100,0.0,70.58,ACCEPT,Strong name similarity | Perfect geographic match
+398,602ace8c-0c5e-11ec-b66a-97ea7481e556,PLP Invest Ejendomme,83.67,80,35.0,72.47,ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+399,17cd5aa0-93e5-11eb-97db-273ba5953680,Pluralsight,100.0,100,15.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+400,b529e3a6-93e4-11eb-8859-29e7c34dee35,Pm energi,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+401,fac6c825-93e4-11eb-86dd-ffbd1b53140e,PostNord,80.82,100,0.0,72.33,ACCEPT,Strong name similarity | Perfect geographic match
+402,42c3ecf7-1d65-11ee-9df5-e543427f87fa,Posten Bring,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+403,93cb1a81-93e4-11eb-a746-fdabd18be9c6,Scanning,88.52,60,0.0,59.41,REVIEW,Strong name similarity | Country match
+404,f3137fa4-93e4-11eb-be5a-4f810ab55f2e,Strålfors,61.2,100,10.0,66.48,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+405,00cd0dbb-f8b9-11ed-bc14-35485e3cf6c4,Revisionsfirmaet Claus Witt Statsautoriseret Revisor,67.37,100,25.0,71.95,ACCEPT,Moderate name similarity | Perfect geographic match | Some business context match
+406,d4239772-8546-11ec-8f98-f9b40efdfe08,PricewaterhouseCoopers Norway,100.0,100,15.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+407,d6682c74-93e4-11eb-919a-b3f9a5ad205c,ProPakistani,76.4,60,35.0,61.56,REVIEW,Strong name similarity | Country match | Moderate business context match
+408,7e5f9a13-fc5f-11ec-8d0e-4949cc357430,Antras,36.9,100,0.0,54.76,REVIEW,Perfect geographic match
+409,00f0d873-93e5-11eb-8474-3bbe2d07207d,Publicis Groupe,94.05,60,25.0,66.62,REVIEW,Strong name similarity | Country match | Some business context match
+410,d9f2b2c1-93e4-11eb-a746-fdabd18be9c6,QCC Global,97.38,60,90.0,80.95,STRONG_ACCEPT,Strong name similarity | Country match | Strong business context match
+411,c40af0d1-93e4-11eb-b5f6-816dd10ac7b0,QCC Ltd.,84.43,60,25.0,62.77,REVIEW,Strong name similarity | Country match | Some business context match
+412,463be1c1-2500-11ec-abad-a332bf576a25,Qliktech,83.02,100,80.0,89.21,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+413,55862ac9-9d66-11ef-aecb-ed811e9ee609,QLIKTECH INTERNATIONAL AB.,100.0,60,50.0,74.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+414,55862ac9-9d66-11ef-aecb-ed811e9ee609,QLIKTECH INTERNATIONAL AB.,84.23,60,40.0,65.69,REVIEW,Strong name similarity | Country match | Moderate business context match
+415,290f11d8-9f7b-11ec-a15f-3d38c1a422d7,Qualtrics LLC.,100.0,60,30.0,70.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+416,e6d9287a-93e4-11eb-be3a-7f925cb94351,Questback,100.0,100,15.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+417,7e7ca675-0db6-11ec-aaad-e5a5ee267b5b,Radio Frequency Systems,83.82,100,62.86,86.1,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+418,77c75eec-0e2b-11ec-be2f-03584edab354,RAJAH & TANN CYBERSECURITY,98.05,100,20.0,83.22,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+419,1a62837c-2d2f-11ed-bca0-45d3b4f58bc5,Rapid 7 EMEA Internal Moose,63.9,60,25.0,54.56,REVIEW,Moderate name similarity | Country match | Some business context match
+420,9973fa6b-8aae-11ec-be09-3b46a3ec669e,Red Hat Asia Pacific,100.0,100,10.0,82.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+421,1d6c9026-93e5-11eb-a736-0f5b20ecb2f1,Red PR Limited,95.03,60,60.0,74.01,ACCEPT,Strong name similarity | Country match | Strong business context match
+422,8d744e31-ca8a-11ec-bce4-ef3debe8cbb7,Red Harvest Malaysia,82.9,60,0.0,57.16,REVIEW,Strong name similarity | Country match
+423,9fadf573-f747-11ed-b78c-65cdc1d96e76,NFB Relocation Services AS,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+424,177157fd-93e5-11eb-b997-8dd98d09cf25,Retail Institute Scandinavia,56.12,100,28.0,68.05,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+425,369fd921-9bc9-11ec-9ba8-7f83afda027b,RevealCX,99.0,60,15.0,66.6,REVIEW,Strong name similarity | Country match | Some business context match
+426,c8b67a70-c825-11ec-89f7-7594ea00aeb1,Rezponz,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+427,11a58013-c50b-11ef-9531-7716dbb12d27,Rhenus Warehousing Solutions,100.0,100,25.0,85.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+428,83718e53-1b00-11ec-a945-71766a416f0a,Rittal A/S.,100.0,100,65.0,93.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+429,b9b2d1d2-9a09-11ec-9faf-49592d66acb7,RTTD,91.85,0,15.0,39.74,REJECT,Strong name similarity | Some business context match
+430,03a33160-6ce5-11ec-a235-43a77bc58316,WI Industrial Display,35.9,100,7.5,55.86,REVIEW,Perfect geographic match | Some business context match
+431,e3e3b642-93e4-11eb-9937-4fab995bf8ff,Sagemcom,80.82,60,38.0,63.93,REVIEW,Strong name similarity | Country match | Moderate business context match
+432,391eb2e4-181d-11f0-8284-6dfd2009e8a0,SAILPOINT TECHNOLOGIES,100.0,60,60.0,76.0,ACCEPT,Strong name similarity | Country match | Strong business context match
+433,31fb638d-1105-11ec-a8d6-03ab78afae8c,The Salesforce PM,75.27,60,53.0,64.71,REVIEW,Strong name similarity | Country match | Moderate business context match
+434,0808561b-93e5-11eb-a33a-a3dfba582839,DancingMind,28.6,100,6.0,52.64,REVIEW,Perfect geographic match | Some business context match
+435,ceff37a2-02d7-11ed-8baf-6351820414ca,Salling Group,90.75,80,25.0,73.3,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+436,b1e580a1-583d-11ec-91ee-edc6c109839b,Saluran Cekap M Sdn Bhd.,100.0,80,35.0,79.0,ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+437,2d6323ad-1afe-11ec-be37-19557aad561c,Samsung Electronics Nordic AB.,100.0,100,35.0,87.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+438,425606ac-93e5-11eb-919a-b3f9a5ad205c,Sanvaru Technology,100.0,100,60.0,92.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+439,066eca52-93e5-11eb-919a-b3f9a5ad205c,SAP HANA,72.87,60,22.5,57.65,REVIEW,Strong name similarity | Country match | Some business context match
+440,0600573b-aeaa-11ef-98d7-e3388663e6b0,SAS CTRL AS,72.53,60,40.0,61.01,REVIEW,Strong name similarity | Country match | Moderate business context match
+441,1930e241-93e5-11eb-b5f6-816dd10ac7b0,Saville Consulting Danmark,100.0,100,60.0,92.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+442,3d92e128-13e4-11ec-b777-17d8447b66e7,Schneider Electric A/S.,100.0,60,65.0,77.0,ACCEPT,Strong name similarity | Country match | Strong business context match
+443,ac84e842-93e4-11eb-919a-b3f9a5ad205c,Scrive,99.0,60,15.0,66.6,REVIEW,Strong name similarity | Country match | Some business context match
+444,77842e7a-93e4-11eb-8474-3bbe2d07207d,ServiceNow BV.,94.93,100,22.5,82.47,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+445,16a72a26-93e5-11eb-b5f6-816dd10ac7b0,SFDC,69.82,0,50.0,37.93,REJECT,Moderate name similarity | Moderate business context match
+446,f9694b0b-2abd-11ef-a5ed-2fefabb10411,Shandong Faithwit Power Sources Co. Ltd.,93.44,60,40.0,69.37,REVIEW,Strong name similarity | Country match | Moderate business context match
+447,026af55b-93e5-11eb-8ad6-7326edce8d21,Shenzhen SMACH POWER Technology Co. Ltd.,89.03,100,83.0,92.21,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+448,004ef7e0-aec3-11ef-86b6-3b0e501976c1,Shenzhen Aomiou Technology Co. Ltd.,83.3,100,35.0,80.32,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+449,f78384d3-0673-11ec-99bb-f15d4681cfe6,SDMC Technology,88.75,100,46.0,84.7,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+450,02f80969-e7b5-11ed-ad08-af303e1f5d45,Shenzhen Xinxiapu Digital Technology Devlopment Limited Company,78.45,100,55.0,82.38,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+451,45df9fc2-aa7d-11ec-916d-7916524b3224,Shields Group,81.25,60,40.0,64.5,REVIEW,Strong name similarity | Country match | Moderate business context match
+452,2f5615e0-0d48-11ec-baff-b3f7938105ab,Shuangdeng Group,100.0,100,25.0,85.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+453,1d3ad1c3-93e5-11eb-a746-fdabd18be9c6,SIAE MICROELETTRONICA,100.0,0,15.0,43.0,REJECT,Strong name similarity | Some business context match
+454,1d3ad1c3-93e5-11eb-a746-fdabd18be9c6,SIAE MICROELETTRONICA,87.1,60,18.0,62.44,REVIEW,Strong name similarity | Country match | Some business context match
+455,a823b0f3-93e4-11eb-aa66-9b8d95e2171b,Sievo Bucharest Office,70.1,100,15.0,71.04,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+456,e08289d1-93e4-11eb-b89f-536884b3e7dd,Signicat,100.0,0,0.0,40.0,REJECT,Strong name similarity
+457,ab1c21c0-f8b5-11ed-a8b3-7b4d48a6e9d9,Sillehoved,100.0,100,15.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+458,00bf1d13-a0ab-11ed-bb8a-71de4d1e3b55,Balestier Investment Pte. Ltd.,87.9,100,78.0,90.76,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+459,b4f0991a-2de9-11ed-9aba-99765e777111,SIPM,100.0,0,20.0,44.0,REJECT,Strong name similarity | Some business context match
+460,01ceb558-93e5-11eb-86dd-ffbd1b53140e,FIRST CLASS LOGISTICS,35.2,100,10.0,56.08,REVIEW,Perfect geographic match | Some business context match
+461,8a5c3f6b-93e4-11eb-be3a-7f925cb94351,Skycall AS,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+462,c3d1aee0-fcc1-11ed-8628-bd8e2d8d8a31,Smart city technologies,70.8,100,40.0,76.32,ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+463,16a46b07-93e5-11eb-aa66-9b8d95e2171b,Smart Technologies BD Ltd. Store Room,95.55,100,70.0,92.22,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+464,13bdaad5-0fd2-11ee-bf56-93e389618473,SF Holding,75.07,60,0.0,54.03,REVIEW,Strong name similarity | Country match
+465,d7fdc096-93e4-11eb-86dd-ffbd1b53140e,SNOW SOFTWARE,100.0,60,80.0,80.0,STRONG_ACCEPT,Strong name similarity | Country match | Strong business context match
+466,5516dd90-aaf0-11ef-baa5-b1d00e182d98,Snow Software ApS.,100.0,60,60.0,76.0,ACCEPT,Strong name similarity | Country match | Strong business context match
+467,b4e8976a-1184-11ec-8bef-4988316d3539,Snow Stock,78.5,60,0.0,55.4,REVIEW,Strong name similarity | Country match
+468,1c568f21-ef82-11ee-99aa-8b980cad1cb9,SoftwareOne,93.47,0,60.0,49.39,REJECT,Strong name similarity | Strong business context match
+469,ca236fc9-1b01-11ec-893d-41807d3de292,SoftwareONE Norge AS,100.0,100,80.0,96.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+470,1c568f21-ef82-11ee-99aa-8b980cad1cb9,SoftwareOne,91.82,0,60.0,48.73,REJECT,Strong name similarity | Strong business context match
+471,29efa902-051f-11ec-9d56-b3ef14229486,Mobile Communications Thesaurus,89.15,60,45.0,68.66,REVIEW,Strong name similarity | Country match | Moderate business context match
+472,2c51a7ea-d88d-11ec-8458-930fb706770a,South Pole,91.85,100,20.0,80.74,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+473,04ec320a-18fe-11f0-b4d0-096f959c77d2,Southern Nine Sdn. Bhd.,98.9,60,20.0,67.56,REVIEW,Strong name similarity | Country match | Some business context match
+474,dc3d014e-25aa-11ef-84bb-3b7d91468c81,Splunk,96.25,60,15.0,65.5,REVIEW,Strong name similarity | Country match | Some business context match
+475,f7e5eff0-58e5-11ed-9cc3-5bfe46360075,Sports Star International Pvt Ltd.,100.0,60,25.0,69.0,REVIEW,Strong name similarity | Country match | Some business context match
+476,2c43d957-93e5-11eb-8474-3bbe2d07207d,SquareTrade,84.12,0,35.0,40.65,REJECT,Strong name similarity | Moderate business context match
+477,2c43d957-93e5-11eb-8474-3bbe2d07207d,SquareTrade,95.15,100,40.0,86.06,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+478,a500b71f-f6e3-11ed-98d1-c9172c48015a,STARCOM MEDIA VEST GROUP FZ-LLC,91.8,60,15.0,63.72,REVIEW,Strong name similarity | Country match | Some business context match
+479,0f34c0d7-197b-11ef-bb50-ff355101f6ca,Starseed Technologies S Pte. Ltd.,100.0,60,40.0,72.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+480,05cf9ef0-f8c2-11ed-a4de-7df22657eaf0,Stena Recycling AB - Tingstad,89.55,100,20.0,79.82,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+481,778a3f93-f35c-11ee-a2cf-e34c0e809adb,Storm Communications,100.0,100,38.0,87.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+482,c98e8805-93e4-11eb-8e19-198fb02d6f96,Subex,64.95,0,41.0,34.18,REJECT,Moderate name similarity | Moderate business context match
+483,c98e8805-93e4-11eb-8e19-198fb02d6f96,Subex,78.07,0,45.0,40.23,REJECT,Strong name similarity | Moderate business context match
+484,00b17d13-6747-11ef-8225-13de5e6b3ee0,McDonald's Taman Sutera Utama,71.25,100,0.0,68.5,REVIEW,Strong name similarity | Perfect geographic match
+485,324b1f73-93e5-11eb-8859-29e7c34dee35,Swichtec Power Systems,100.0,100,91.0,98.2,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+486,eb329782-93e4-11eb-a736-0f5b20ecb2f1,TAKAFUL MALAYSIA,83.8,100,0.0,73.52,ACCEPT,Strong name similarity | Perfect geographic match
+487,84e29359-93e4-11eb-a33a-a3dfba582839,Syniverse,78.62,100,55.0,82.45,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+488,92e4b213-22f3-11ee-b2a1-e35ad1046673,Askari Information Systems Limited,98.55,60,90.0,81.42,STRONG_ACCEPT,Strong name similarity | Country match | Strong business context match
+489,deb26554-12fa-11ec-bc86-59f7750beb34,System Teknik,72.0,60,25.0,57.8,REVIEW,Strong name similarity | Country match | Some business context match
+490,389f973e-01ee-11ec-8b61-35bce24791d3,POL,79.17,100,0.0,71.67,ACCEPT,Strong name similarity | Perfect geographic match
+491,00cfe2f8-93e5-11eb-b997-8dd98d09cf25,Reed Tan Digital,44.6,100,7.5,59.34,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+492,4ccb39c7-c026-11ec-9880-5b9f9a6d0d58,Talend sa.,82.07,60,0.0,56.83,REVIEW,Strong name similarity | Country match
+493,14426861-22ee-11ec-9e3b-1143ee662a91,Talentech Denmark,86.05,100,60.0,86.42,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+494,ef6e1e50-93e4-11eb-8ad6-7326edce8d21,Tampnet AS,100.0,100,15.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+495,63cd6ee2-2503-11ec-ada5-21fec46afdaa,Tata Steel International S Pte. Ltd.,92.7,100,25.0,82.08,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+496,2b145a02-93e5-11eb-8859-29e7c34dee35,TATA COMMUNICATIONS DIGO,85.0,60,70.0,72.0,ACCEPT,Strong name similarity | Country match | Strong business context match
+497,f875b097-bf89-11ec-a505-d94087b31ae6,TATA SKO,43.41,100,0.0,57.36,REVIEW,Moderate name similarity | Perfect geographic match
+498,015a6fb7-93e5-11eb-91fb-73d498260b10,Maryem Nasri Consultancy,60.45,60,3.0,48.78,REJECT,Moderate name similarity | Country match | Some business context match
+499,9aa73fcc-2bbb-11ef-90fc-49e996ebd993,Mobile Tech International HK Co Ltd.,97.3,60,50.0,72.92,ACCEPT,Strong name similarity | Country match | Moderate business context match
+500,00e95dd3-03c4-11ec-866d-75f684b48576,Midtjysk Hundecenter,31.7,100,0.0,52.68,REVIEW,Perfect geographic match
+501,e99d2a75-93e4-11eb-9937-4fab995bf8ff,TEALIUM,97.9,100,30.0,85.16,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+502,2d63c842-93e5-11eb-b997-8dd98d09cf25,TEAM International,95.15,100,45.0,87.06,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+503,466e6160-1a57-11ee-b283-e93ffb37649e,SNK Tech Thailand Company Limited,100.0,60,70.0,78.0,ACCEPT,Strong name similarity | Country match | Strong business context match
+504,f299bc06-0aee-11ef-b572-d11295d15c52,Tech Mahindra,76.01,100,40.0,78.41,ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+505,bd9ea750-93e4-11eb-be5a-4f810ab55f2e,Tecnotree,100.0,100,15.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+506,04a78940-19a9-11ee-aec0-a1af3c434505,Telecom Equipment Pte Ltd.,100.0,100,60.0,92.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+507,005ce289-9a7b-11ef-8d84-8d1c2933c379,Telekom Malaysia Berhad Sundar,100.0,60,20.0,68.0,REVIEW,Strong name similarity | Country match | Some business context match
+508,bb9fa300-93e4-11eb-a33a-a3dfba582839,Telenor,67.7,100,0.0,67.08,REVIEW,Moderate name similarity | Perfect geographic match
+509,18792b00-93e5-11eb-8859-29e7c34dee35,Telenor,97.9,100,15.0,82.16,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+510,342de933-93e5-11eb-9937-4fab995bf8ff,Telenor Satellite,61.7,100,35.5,71.78,ACCEPT,Moderate name similarity | Perfect geographic match | Moderate business context match
+511,060fe172-93e5-11eb-aa66-9b8d95e2171b,Telenor,80.27,100,10.0,74.11,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+512,9ca9c0c6-aa7c-11ec-a638-89115c56d9b3,Yettel,33.2,100,0.0,53.28,REVIEW,Perfect geographic match
+513,0084059f-f3d1-11ed-a363-5120b9b48004,Danpor Agri Holding A/S.,79.95,60,0.0,55.98,REVIEW,Strong name similarity | Country match
+514,244907b2-1698-11ee-9aad-f7c11d5080a1,Telenor Objects AS,81.33,100,20.0,76.53,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+515,101cc600-235b-11ec-a95a-53153c834fe2,Telenor Mobil AS avd Rørvik,79.88,100,20.0,75.95,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+516,87c163ba-2a09-11ef-8fab-1db95a51f585,Al Malik Security Services Pakistan Private Limited,87.68,60,67.14,72.5,ACCEPT,Strong name similarity | Country match | Strong business context match
+517,f8dd5135-0c43-11ee-b94f-ebf23e82ffaf,Telenor Asia,66.05,100,7.5,67.92,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+518,00d19d70-5e13-11ef-904a-b5358eb47b36,Telenor Franchise Brainz Communication,66.0,60,61.0,62.6,REVIEW,Moderate name similarity | Country match | Strong business context match
+519,4df951dc-2cfa-11ef-96db-335e17d831d9,Telenor Cloud services AS,100.0,100,25.0,85.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+520,b00e334a-bfb1-11ec-b414-e9c9ba937bb9,Yettel Hungary,39.6,100,15.0,58.84,REVIEW,Perfect geographic match | Some business context match
+521,f78e0b4a-93e4-11eb-9937-4fab995bf8ff,Telenor Norges,96.67,100,10.0,80.67,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+522,b69c114f-93e4-11eb-b4a6-27899be4e45d,Telenor Pakistan,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+523,f8dd5135-0c43-11ee-b94f-ebf23e82ffaf,Telenor Asia,56.8,100,16.0,65.92,REVIEW,Moderate name similarity | Perfect geographic match | Some business context match
+524,28771ae9-f634-11ed-a280-516b3ed52aaf,Real Estate AS,100.0,60,65.0,77.0,ACCEPT,Strong name similarity | Country match | Strong business context match
+525,4df951dc-2cfa-11ef-96db-335e17d831d9,Telenor Cloud services AS,95.85,100,25.0,83.34,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+526,dbe2248f-aba6-11ef-b6d6-0b609ebb973a,Telenor Software Lab AS TSL,100.0,100,60.0,92.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+527,474357e4-17e8-11ec-b872-5febabff3ecb,Svalbard,84.12,60,10.0,59.65,REVIEW,Strong name similarity | Country match | Some business context match
+528,a84b4151-0da2-11ec-9b20-fda7bd57cf2c,Teleteamet A/S.,100.0,80,0.0,72.0,ACCEPT,Strong name similarity | Perfect geographic match
+529,3c4c9da2-93e5-11eb-b4a6-27899be4e45d,Teliti Infotech Sdn Bhd.,89.3,60,48.0,69.32,REVIEW,Strong name similarity | Country match | Moderate business context match
+530,ff3f88f5-f841-11ed-8395-a741478d275d,Textilia Group A S Lyngby,97.93,60,45.0,72.17,ACCEPT,Strong name similarity | Country match | Moderate business context match
+531,22d880ae-93e5-11eb-8e19-198fb02d6f96,Thai Life Insurance,72.0,100,62.0,81.2,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+532,099e3859-93e5-11eb-b5f6-816dd10ac7b0,Setec,82.47,0,15.0,35.99,REJECT,Strong name similarity | Some business context match
+533,88ebf1ce-3a02-11ee-94b5-fd90c5a93d00,Gemalto Norge AS,100.0,100,0.0,80.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match
+534,34199bd1-1b06-11ec-8a43-a1f4156da652,Thales Sverige AB.,77.8,80,0.0,63.12,REVIEW,Strong name similarity | Perfect geographic match
+535,6f4c5255-03a6-11ec-9097-bf5acc5341db,TietoEVRY,86.87,60,10.0,60.75,REVIEW,Strong name similarity | Country match | Some business context match
+536,55904944-a123-11ed-88c7-11099bb04231,Norwegian Cabin Services Norway As Avd Oslo Lufthavn Gardermoen,67.65,60,25.0,56.06,REVIEW,Moderate name similarity | Country match | Some business context match
+537,e8cae664-93e4-11eb-b89f-536884b3e7dd,TINEX Group,100.0,100,45.0,89.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+538,2480f9f2-f612-11ed-ba6b-2fa5b25b3bfc,TM Management Services,66.25,100,59.0,78.3,ACCEPT,Moderate name similarity | Perfect geographic match | Moderate business context match
+539,b41391a2-93e4-11eb-97db-273ba5953680,Tongyu communication,100.0,60,45.0,73.0,ACCEPT,Strong name similarity | Country match | Moderate business context match
+540,fedb5170-bfb3-11ec-aa0f-71bbddca30bf,LINK Logistics International Network,83.95,100,32.5,80.08,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+541,0176f865-93e5-11eb-91fb-73d498260b10,Oticon A/S.,39.2,100,0.0,55.68,REVIEW,Perfect geographic match
+542,77adc9aa-92f2-11ef-840e-3d3003770a6f,Tradium - EUD10 Randers,68.12,100,0.0,67.25,REVIEW,Moderate name similarity | Perfect geographic match
+543,7422ed1e-5e29-11ef-90a8-8b966e020cd1,TRANSMODE SYSTEMS AB.,100.0,100,50.0,90.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+544,7f4688c8-ad32-11ef-8c9e-31c2725f601c,Touch of Trend Singapore,72.75,100,0.0,69.1,REVIEW,Strong name similarity | Perfect geographic match
+545,0bbb730a-93e5-11eb-be3a-7f925cb94351,Trifork Academy,88.1,100,20.0,79.24,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+546,4c667ccb-13c6-11ec-9836-ef7b0600cc53,True Move H Universal Communication Company Limited,100.0,60,80.0,80.0,STRONG_ACCEPT,Strong name similarity | Country match | Strong business context match
+547,8b944a32-93e4-11eb-86dd-ffbd1b53140e,TRUSTZONE,100.0,100,20.0,84.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+548,8f3823fb-e950-11ed-ae60-5967c8ecc505,TT DotCom Sdn. Bhd - Johor Operation Engineering Office,91.95,60,20.0,64.78,REVIEW,Strong name similarity | Country match | Some business context match
+549,f1ca36c3-93e4-11eb-9937-4fab995bf8ff,TT Network,54.8,100,0.0,61.92,REVIEW,Moderate name similarity | Perfect geographic match
+550,c5b76852-93e4-11eb-be3a-7f925cb94351,Tutela,74.22,100,50.0,79.69,ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+551,7c32e6cb-5bf1-11ef-9278-432c00859ce8,TXO Systems Ltd.,100.0,100,60.0,92.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+552,0cec0a65-918f-11ed-8685-0d799fbc3c64,UiPath Immersion Lab,75.75,100,0.0,70.3,ACCEPT,Strong name similarity | Perfect geographic match
+553,002a4e16-508e-11ef-9563-0f2690a21857,Virtual University of Pakistan VU,78.9,60,40.0,63.56,REVIEW,Strong name similarity | Country match | Moderate business context match
+554,b156a84f-0568-11ef-8715-4dd5c9d44ad8,Highway Co. Ltd.,90.0,60,15.0,63.0,REVIEW,Strong name similarity | Country match | Some business context match
+555,d21a0337-03a5-11ec-a873-d574c694d6a6,Roested,34.5,100,0.0,53.8,REVIEW,Perfect geographic match
+556,e5d58700-d139-11ec-90aa-d5cfd1428197,Utel AS,100.0,100,15.0,83.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+557,0330dd63-93e5-11eb-a746-fdabd18be9c6,Vantiva,83.6,60,55.0,68.44,REVIEW,Strong name similarity | Country match | Moderate business context match
+558,83bcff00-93e4-11eb-b89f-536884b3e7dd,Vertiv,72.55,0,7.5,30.52,REJECT,Strong name similarity | Some business context match
+559,ccf9e8fb-6dae-11ec-a0a5-5d41d5e823b0,Vertiv,73.65,0,7.5,30.96,REJECT,Strong name similarity | Some business context match
+560,3dab2b4c-b0d3-11ef-95f9-0de7499436cf,Vertiv Energy Private Limited,100.0,60,70.0,78.0,ACCEPT,Strong name similarity | Country match | Strong business context match
+561,f7c59602-93e4-11eb-b5f6-816dd10ac7b0,2nd phase design,36.6,60,15.0,41.64,REJECT,Country match | Some business context match
+562,a8089090-d8d5-11ec-a2a7-a103c2828e6a,Viaplay Group,96.8,100,25.0,83.72,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+563,d17f4eab-93e4-11eb-90d2-e3355a7e800b,TRACKING WORLD,53.45,60,90.0,63.38,REVIEW,Moderate name similarity | Country match | Strong business context match
+564,387071d4-9f86-11ec-bb62-ef8222f30268,Mv-nordic Danmark,89.9,80,15.0,70.96,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+565,ed5cca83-93e4-11eb-8859-29e7c34dee35,Voxogo Aps. Store Kongensgade,94.15,100,15.0,80.66,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+566,f3e108dc-93e4-11eb-8e19-198fb02d6f96,Watchdata,75.3,100,47.5,79.62,ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+567,01a825b8-6cda-11ec-9b86-b57766cd3ae5,Multi-Task Solution,50.1,100,77.5,75.54,ACCEPT,Moderate name similarity | Perfect geographic match | Strong business context match
+568,c179226e-93e4-11eb-9937-4fab995bf8ff,Waystream,100.0,80,15.0,75.0,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+569,12bfb6c1-93e5-11eb-b89f-536884b3e7dd,Wideroe Technical,83.35,100,15.0,76.34,ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+570,01eb8c25-93e5-11eb-b4a6-27899be4e45d,Wilke A S Aarhus,66.87,80,0.0,58.75,REVIEW,Moderate name similarity | Perfect geographic match
+571,4e1ff27b-1afc-11ec-ba40-29b1c5bdeb83,Wipro Limited,100.0,60,90.0,82.0,STRONG_ACCEPT,Strong name similarity | Country match | Strong business context match
+572,f5b10fd3-0321-11ee-b9c7-d945c48165b4,Wipro Limited Singapore Branch,100.0,100,50.0,90.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+573,727be343-ba6f-11eb-a6d9-7794e56e1994,Wire & Wireless,98.75,60,60.0,75.5,ACCEPT,Strong name similarity | Country match | Strong business context match
+574,3a3d6cb0-93e5-11eb-8ad6-7326edce8d21,Woodlands Transport,90.4,100,66.0,89.36,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+575,2dbfa999-1189-11ec-a0a7-51650acd388a,Workday UK Limited,100.0,80,88.0,89.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+576,b80b9753-17de-11ee-b9eb-93f77cdb42f2,WTW Real Estate Sdn. Bhd.,100.0,60,65.0,77.0,ACCEPT,Strong name similarity | Country match | Strong business context match
+577,ae1ecc30-0c00-11ec-882c-e7dd96ffa691,xIT Software,100.0,100,63.0,92.6,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Strong business context match
+578,f33282ae-bb0f-11ec-985d-0b3ce34e3feb,Yangtze Optical Fibre and Cable Joint Stock Limited Company YOFC,100.0,100,35.0,87.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+579,0120bd90-f538-11ed-a6df-e35db83fc88a,Kingtent Technology,59.5,60,50.0,57.8,REVIEW,Moderate name similarity | Country match | Moderate business context match
+580,1965cb44-f87f-11ed-ab94-9d382b3b5926,Zalaris HR Services Danmark A/S.,100.0,80,45.0,81.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+581,2232e03f-ff78-11eb-a358-8dbe3201bc48,Music Aggregation Services Finland Oy.,81.8,60,40.0,64.72,REVIEW,Strong name similarity | Country match | Moderate business context match
+582,09a452d3-93e5-11eb-be3a-7f925cb94351,Aviation Fuelling Services Norway,72.0,60,37.0,60.2,REVIEW,Strong name similarity | Country match | Moderate business context match
+583,28b4ac6a-b989-11ec-9415-2f89cc4d8f8b,Zalaris,69.9,100,37.0,75.36,ACCEPT,Moderate name similarity | Perfect geographic match | Moderate business context match
+584,ae69fbe1-93e4-11eb-be3a-7f925cb94351,Zendata,97.9,60,15.0,66.16,REVIEW,Strong name similarity | Country match | Some business context match
+585,47febe11-febb-11ed-8087-5f700cefa330,ZTE Zhongxing Telecom Pakistan Pvt Ltd.,97.55,60,88.0,80.62,STRONG_ACCEPT,Strong name similarity | Country match | Strong business context match
+586,a2b8aad1-93e4-11eb-b89f-536884b3e7dd,Ziff Davis,85.8,0,65.0,47.32,REJECT,Strong name similarity | Strong business context match
+587,040e58c6-3d58-11ee-a7e9-2dbe41b3612a,Malaysia Power Corporation Sdn Bhd.,100.0,60,25.0,69.0,REVIEW,Strong name similarity | Country match | Some business context match
+588,2964e99b-e55a-11ed-a5ae-85415e102eca,ZTE Thailand Co. Ltd.,100.0,80,35.0,79.0,ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+589,ced3b8a4-182c-11ef-b44a-43a7b3b6577a,ZTE Corporation Division,100.0,100,25.0,85.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Some business context match
+590,3a852200-1b06-11ec-ae98-5d8c88c64981,ZTE Corporation Bangladesh Limited,100.0,100,35.0,87.0,STRONG_ACCEPT,Strong name similarity | Perfect geographic match | Moderate business context match
+591,05b20a12-93e5-11eb-9937-4fab995bf8ff,Bwell Norge,42.6,100,0.0,57.04,REVIEW,Moderate name similarity | Perfect geographic match
